@@ -37,5 +37,5 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://first-site-full-version.vercel.app/
+https://master-tech-service-7cca.vercel.app/
 ```
